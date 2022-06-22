@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    background:url('img/671187-guru-nanak-dev-ji.jpg') no-repeat center center/cover;
+     position:relative;
+     width:100vh;
+     height:100vh;
+    
+    /* background-color: #cccccc;  */
+}
